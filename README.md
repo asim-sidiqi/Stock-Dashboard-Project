@@ -2,6 +2,38 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About Project
+
+The Stock Dashboard is a sleek and intuitive web application designed to provide real-time insights into the stock market. Built with React.js and styled with Tailwind CSS, this project leverages the Finnhub API to deliver accurate and up-to-date stock data.
+
+## Key Features
+
+Real-Time Data: Stay updated with the latest stock prices and market trends.
+
+Interactive Charts: Visualize stock performance with dynamic and interactive charts.
+
+Customizable Watchlist: Create and manage a personalized watchlist of your favorite stocks.
+
+News Integration: Get the latest news and updates related to your tracked stocks.
+
+Dark Mode: Switch between light and dark themes for a comfortable viewing experience at any time of the day.
+
+Responsive Design: Enjoy a consistent experience across all devices, from desktops to mobile phones.
+
+## Technology Stacks
+
+React.js: A powerful front-end library for creating an interactive user interface.
+
+Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
+
+Finnhub API: A comprehensive stock API providing real-time data and financial information.
+
+## Objective
+
+The goal of the Stock Dashboard project is to simplify the process of monitoring and analyzing stock market data. Whether you're a seasoned investor or just getting started, this application provides all the tools you need to make informed decisions.
+
+Explore the Stock Dashboard and take control of your investments with ease and efficiency!
+
 ## Available Scripts
 
 In the project directory, you can run:
