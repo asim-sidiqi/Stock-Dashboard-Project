@@ -10,7 +10,7 @@ The Stock Dashboard is a sleek and intuitive web application designed to provide
 
 Real-Time Data: Stay updated with the latest stock prices and market trends.
 
-Interactive Charts: Visualize stock performance with dynamic and interactive charts.
+Interactive Charts: Visualize stock performance with dynamic and interactive charts of candlestick patterns.
 
 Customizable Watchlist: Create and manage a personalized watchlist of your favorite stocks.
 
